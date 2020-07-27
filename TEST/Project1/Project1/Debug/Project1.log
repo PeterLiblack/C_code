@@ -1,0 +1,112 @@
+﻿生成启动时间为 2020/7/27 21:52:17。
+     1>项目“G:\github\c\Test\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>g:\vs\vs2013\vc\include\cstring(18): error C2054: 在“using”之后应输入“(”
+     1>g:\vs\vs2013\vc\include\cstring(18): error C2061: 语法错误: 标识符“using”
+     1>g:\vs\vs2013\vc\include\cstring(18): error C2061: 语法错误: 标识符“memcmp”
+     1>g:\vs\vs2013\vc\include\cstring(18): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstring(19): error C2061: 语法错误: 标识符“memcpy”
+     1>g:\vs\vs2013\vc\include\cstring(19): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstring(19): error C2061: 语法错误: 标识符“memmove”
+     1>g:\vs\vs2013\vc\include\cstring(19): error C2061: 语法错误: 标识符“memset”
+     1>g:\vs\vs2013\vc\include\cstring(20): error C2061: 语法错误: 标识符“strcat”
+     1>g:\vs\vs2013\vc\include\cstring(20): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstring(20): error C2061: 语法错误: 标识符“strchr”
+     1>g:\vs\vs2013\vc\include\cstring(20): error C2061: 语法错误: 标识符“strcmp”
+     1>g:\vs\vs2013\vc\include\cstring(21): error C2061: 语法错误: 标识符“strcoll”
+     1>g:\vs\vs2013\vc\include\cstring(21): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstring(21): error C2061: 语法错误: 标识符“strcpy”
+     1>g:\vs\vs2013\vc\include\cstring(21): error C2061: 语法错误: 标识符“strcspn”
+     1>g:\vs\vs2013\vc\include\cstring(22): error C2061: 语法错误: 标识符“strerror”
+     1>g:\vs\vs2013\vc\include\cstring(22): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstring(22): error C2061: 语法错误: 标识符“strlen”
+     1>g:\vs\vs2013\vc\include\cstring(22): error C2061: 语法错误: 标识符“strncat”
+     1>g:\vs\vs2013\vc\include\cstring(23): error C2061: 语法错误: 标识符“strncmp”
+     1>g:\vs\vs2013\vc\include\cstring(23): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstring(23): error C2061: 语法错误: 标识符“strncpy”
+     1>g:\vs\vs2013\vc\include\cstring(23): error C2061: 语法错误: 标识符“strpbrk”
+     1>g:\vs\vs2013\vc\include\cstring(24): error C2061: 语法错误: 标识符“strrchr”
+     1>g:\vs\vs2013\vc\include\cstring(24): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstring(24): error C2061: 语法错误: 标识符“strspn”
+     1>g:\vs\vs2013\vc\include\cstring(24): error C2061: 语法错误: 标识符“strstr”
+     1>g:\vs\vs2013\vc\include\cstring(25): error C2061: 语法错误: 标识符“strtok”
+     1>g:\vs\vs2013\vc\include\cstring(25): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstring(25): error C2061: 语法错误: 标识符“strxfrm”
+     1>g:\vs\vs2013\vc\include\cstdio(36): error C2054: 在“using”之后应输入“(”
+     1>g:\vs\vs2013\vc\include\cstdio(36): error C2061: 语法错误: 标识符“using”
+     1>g:\vs\vs2013\vc\include\cstdio(38): error C2054: 在“using”之后应输入“(”
+     1>g:\vs\vs2013\vc\include\cstdio(38): error C2061: 语法错误: 标识符“using”
+     1>g:\vs\vs2013\vc\include\cstdio(39): error C2061: 语法错误: 标识符“using”
+     1>g:\vs\vs2013\vc\include\cstdio(39): error C2061: 语法错误: 标识符“fclose”
+     1>g:\vs\vs2013\vc\include\cstdio(39): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(39): error C2061: 语法错误: 标识符“feof”
+     1>g:\vs\vs2013\vc\include\cstdio(40): error C2061: 语法错误: 标识符“ferror”
+     1>g:\vs\vs2013\vc\include\cstdio(40): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(40): error C2061: 语法错误: 标识符“fflush”
+     1>g:\vs\vs2013\vc\include\cstdio(40): error C2061: 语法错误: 标识符“fgetc”
+     1>g:\vs\vs2013\vc\include\cstdio(41): error C2061: 语法错误: 标识符“fgetpos”
+     1>g:\vs\vs2013\vc\include\cstdio(41): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(41): error C2061: 语法错误: 标识符“fgets”
+     1>g:\vs\vs2013\vc\include\cstdio(41): error C2061: 语法错误: 标识符“fopen”
+     1>g:\vs\vs2013\vc\include\cstdio(42): error C2061: 语法错误: 标识符“fprintf”
+     1>g:\vs\vs2013\vc\include\cstdio(42): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(42): error C2061: 语法错误: 标识符“fputc”
+     1>g:\vs\vs2013\vc\include\cstdio(42): error C2061: 语法错误: 标识符“fputs”
+     1>g:\vs\vs2013\vc\include\cstdio(43): error C2061: 语法错误: 标识符“fread”
+     1>g:\vs\vs2013\vc\include\cstdio(43): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(43): error C2061: 语法错误: 标识符“freopen”
+     1>g:\vs\vs2013\vc\include\cstdio(43): error C2061: 语法错误: 标识符“fscanf”
+     1>g:\vs\vs2013\vc\include\cstdio(44): error C2061: 语法错误: 标识符“fseek”
+     1>g:\vs\vs2013\vc\include\cstdio(44): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(44): error C2061: 语法错误: 标识符“fsetpos”
+     1>g:\vs\vs2013\vc\include\cstdio(44): error C2061: 语法错误: 标识符“ftell”
+     1>g:\vs\vs2013\vc\include\cstdio(45): error C2061: 语法错误: 标识符“fwrite”
+     1>g:\vs\vs2013\vc\include\cstdio(45): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(45): error C2061: 语法错误: 标识符“getc”
+     1>g:\vs\vs2013\vc\include\cstdio(45): error C2061: 语法错误: 标识符“getchar”
+     1>g:\vs\vs2013\vc\include\cstdio(46): error C2061: 语法错误: 标识符“gets”
+     1>g:\vs\vs2013\vc\include\cstdio(46): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(46): error C2061: 语法错误: 标识符“perror”
+     1>g:\vs\vs2013\vc\include\cstdio(47): error C2061: 语法错误: 标识符“putc”
+     1>g:\vs\vs2013\vc\include\cstdio(47): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(47): error C2061: 语法错误: 标识符“putchar”
+     1>g:\vs\vs2013\vc\include\cstdio(48): error C2061: 语法错误: 标识符“printf”
+     1>g:\vs\vs2013\vc\include\cstdio(48): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(48): error C2061: 语法错误: 标识符“puts”
+     1>g:\vs\vs2013\vc\include\cstdio(48): error C2061: 语法错误: 标识符“remove”
+     1>g:\vs\vs2013\vc\include\cstdio(49): error C2061: 语法错误: 标识符“rename”
+     1>g:\vs\vs2013\vc\include\cstdio(49): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(49): error C2061: 语法错误: 标识符“rewind”
+     1>g:\vs\vs2013\vc\include\cstdio(49): error C2061: 语法错误: 标识符“scanf”
+     1>g:\vs\vs2013\vc\include\cstdio(50): error C2061: 语法错误: 标识符“setbuf”
+     1>g:\vs\vs2013\vc\include\cstdio(50): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(50): error C2061: 语法错误: 标识符“setvbuf”
+     1>g:\vs\vs2013\vc\include\cstdio(50): error C2061: 语法错误: 标识符“sprintf”
+     1>g:\vs\vs2013\vc\include\cstdio(51): error C2061: 语法错误: 标识符“sscanf”
+     1>g:\vs\vs2013\vc\include\cstdio(51): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(51): error C2061: 语法错误: 标识符“tmpfile”
+     1>g:\vs\vs2013\vc\include\cstdio(51): error C2061: 语法错误: 标识符“tmpnam”
+     1>g:\vs\vs2013\vc\include\cstdio(52): error C2061: 语法错误: 标识符“ungetc”
+     1>g:\vs\vs2013\vc\include\cstdio(52): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(52): error C2061: 语法错误: 标识符“vfprintf”
+     1>g:\vs\vs2013\vc\include\cstdio(52): error C2061: 语法错误: 标识符“vprintf”
+     1>g:\vs\vs2013\vc\include\cstdio(53): error C2061: 语法错误: 标识符“vsprintf”
+     1>g:\vs\vs2013\vc\include\cstdio(53): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(55): error C2061: 语法错误: 标识符“vsnprintf”
+     1>g:\vs\vs2013\vc\include\cstdio(55): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(56): error C2061: 语法错误: 标识符“vfscanf”
+     1>g:\vs\vs2013\vc\include\cstdio(56): error C2059: 语法错误:“;”
+     1>g:\vs\vs2013\vc\include\cstdio(56): error C2061: 语法错误: 标识符“vscanf”
+     1>g:\vs\vs2013\vc\include\cstdio(56): error C2061: 语法错误: 标识符“vsscanf”
+     1>g:\github\c\test\project1\project1\test.c(10): error C2143: 语法错误 : 缺少“{”(在“:”的前面)
+     1>g:\github\c\test\project1\project1\test.c(10): error C2059: 语法错误:“:”
+     1>g:\github\c\test\project1\project1\test.c(21): error C2065: “CMyString”: 未声明的标识符
+     1>g:\github\c\test\project1\project1\test.c(21): error C2146: 语法错误: 缺少“;”(在标识符“str1”的前面)
+     1>g:\github\c\test\project1\project1\test.c(21): fatal error C1003: 错误计数超过 100；正在停止编译
+     1>已完成生成项目“G:\github\c\Test\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.19
